@@ -1,9 +1,13 @@
 .profile {
-  background-color: rgb(238, 221, 221);
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+
   width: 480px;
   border-radius: 20px;
   box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.41);
   overflow: hidden;
+  background-color: rgb(238, 221, 221);
 }
 
 .description {
@@ -45,7 +49,7 @@
 
 .stats {
   display: flex;
-  
+
   justify-content: space-between;
   align-items: center;
 }

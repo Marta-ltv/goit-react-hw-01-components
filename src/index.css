@@ -1,4 +1,4 @@
-/* @import-normalize; bring in normalize.css styles */
+
 
 body {
   margin: 0;
@@ -29,4 +29,16 @@ ul {
 ol, ul {
   list-style: none;
   padding: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+section {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
 }
