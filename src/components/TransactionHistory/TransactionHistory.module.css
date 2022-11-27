@@ -1,3 +1,42 @@
-.transaction_history{
-    margin: auto;
+.transaction_history {
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  width: 600px;
+  border-radius: 10px;
+  box-shadow: 2px 3px 14px 2px rgba(0, 0, 0, 0.41);
+  overflow: hidden;
+  border-collapse: collapse;
+  color: #8e8e8e;
+  margin-bottom: 20px;
+}
+
+.transaction {
+  color: #fff;
+  background-color: rgb(8, 185, 205);
+  font-weight: 700;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+.transaction_list {
+  text-align: center;
+}
+
+.transaction_item {
+  padding: 10px;
+  border: 1px solid #d3d5e3;
+}
+
+.wrapper {
+  color: #8e8e8e;
+}
+
+.item {
+  padding: 10px;
+  border: 1px solid #d3d5e3;
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: 500;
 }
