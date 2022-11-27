@@ -1,0 +1,22 @@
+.friend_list{
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+}
+
+.item{
+text-decoration: none;
+}
+
+.status {
+    font-weight: 10px;
+}
+
+.friend_avatar {
+    display: block;
+    width: 100%;
+}
+
+.name {
+font-weight: 15px;
+}

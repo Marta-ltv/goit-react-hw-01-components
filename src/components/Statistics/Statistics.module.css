@@ -1,0 +1,19 @@
+.statistics{
+    margin: auto;
+}
+
+.stat_list{
+    list-style: none;
+}
+
+.item{
+    display: flex;
+}
+
+.label{
+    font-weight: 10px;
+}
+
+.percentage{
+    font-weight: 10px;
+}
