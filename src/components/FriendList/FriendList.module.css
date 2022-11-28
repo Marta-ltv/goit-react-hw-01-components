@@ -26,6 +26,14 @@
   border-radius: 50%;
 }
 
+.true {
+  background-color: green;
+}
+
+.false {
+  background-color: red;
+}
+
 .friend_avatar {
   display: block;
   height: auto;
